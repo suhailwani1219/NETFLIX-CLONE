@@ -4,7 +4,7 @@ This project is a simple Netflix landing page created using HTML, CSS, and JavaS
 Installation
 To run this project on your local machine, follow these steps:
 
-1. Clone the repository using git clone 
+1. Clone the repository using git clone https://github.com/suhailwani1219/NETFLIX-CLONE.git
 2. Open the project directory in your code editor.
 3. Open the index.html file in your web browser.
 
